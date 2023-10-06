@@ -1,0 +1,21 @@
+section {
+    background: whitesmoke;
+    padding: 16px;
+    border: 1px solid lightgray;
+    height: 600px
+}
+
+form {
+    height: 100%;
+}
+label, input textarea {
+    display: block;
+}
+
+#message {
+    resize: none;
+}
+
+.container {
+    margin: 8px 0px 8px 0px;
+}
